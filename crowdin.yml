@@ -1,0 +1,3 @@
+files:
+  - source: /projectOne/source.json
+    translation: projectOne/%two_letters_code%/source.json
