@@ -3,3 +3,4 @@ files:
     translation: /project-one/translations/%locale%.json
 
 download_sources: true
+download_translations: true
